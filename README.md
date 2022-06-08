@@ -1,4 +1,5 @@
 #This is my first project
 #This is a second line
-#This change is done on the feature branch
-#Another change on feature
+#I am starting to understand GitHub
+#Github helps developers work on the same project by creating branches.
+#Feature1 is my 2nd branch
